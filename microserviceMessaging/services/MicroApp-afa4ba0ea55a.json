@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "microapp-257519",
+  "private_key_id": "afa4ba0ea55ab2474b900977392b48d970447115",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDb8bjPlne6Aj+m\nUzYmWtYwG1TyDBFhOUFHsi3XLfTfmHdmvJI4xSEaKxIzVjTlGp2wh76J8/TtBtou\nhhxSZRggL1Ozbbf3/cwIqwL6ubvKye4qTq8E6RdVygGtX1sVbzHj+efhwL/Yp5UQ\n9AScNPb/u6CUwTyCf0oNig4HLUIVeD9aL9WKv6KWHom0TTASCfT6R0Jwp+z7Kw5C\nYC/FHvBELHJ+oz+AOSoOkRYVbkJtymjQMb7xOvs2kI0K0Q/15xHpVkXcQ1ocEWSG\nlnGy9Y8kmjL5dvODFD0s71xCbDOsj4LHy1yI3jI0aQnqzp8ZWljYkcdYSf0rbTIl\nyE5RA1iRAgMBAAECgf9SjkchXe9gGZHHevd42GTgsPZJxTq+vd5qroScArouDA4c\nA3lY4yVpJ3AHyZmL86vrSRC9gIy8fesb98pNzm/Ed3sV+rl6tHOsJgR740Ss6XJV\nURN0QdHmJT/oTecmAvIj+Yw8BKhADuT7LkHZIC+Hq/eiIGQIGZsW1cfakgb2Vt2E\nLrDRxTo+sIVQmM9M3L0M2wKWoXXiOG+PzsK17XaZB1uc1HLU5nvyBKjAR1B+W5gZ\nhj7KtKkGfiGSTAiAplVakI974JEkGwPCfoEATGWvKVw3NulDlKy14K8iC5KaPEcR\n4GuapSCfRpIiVIFzUWNFy6E+91ReEbfd4uVpLCECgYEA+zVEKY9V+8MohDll7qfS\nZfkXZBxv3PJ3Nm/ardzG5CHeJQTSJFv3w1Gd59ZWSnh7Y3TK/cDcYgnLSvFcQDlb\nWqVKJQ+28cbR+dT9/q9FQHbH1Qq/ayM3DL9QT8vwwZvcWmzE+NG4I3fmdHGpwNYM\nezdkSeMFkghoZBcw2EYg8KECgYEA4CPIpF2++8XbG3a7t5PWVQpFmH2knriUp7DJ\nMmKxuYKTLE7Clew+XlW6tpZyJOZSEa3eGSZQ8X8qoHUZVBTbLM6BZYCb5Ee0K7WV\nk63Ghmzdv5efGsWgxoahUoIK5V/PDDwVba1AptDK1vE5jRzpvF2j2m6PhGEYe4gV\ny+6yMfECgYAmazwUexZ0XaGJr1mWiVYVQGZCalL1YKO40JyKMJS+eSuHT9hvtR0M\nYyQaO96QnyKH0GnnKyLJX6QWvxkTvXHqSBMx3dhl27lrUxbRZ67YsBHZ1D34PbeC\nnJPE0HTut06ZCb+KKlDWI9U8A9IpatMX2R3eavkEH4MPo7hVq0wIYQKBgQCAsytf\nbdDfAsIIKAorpADa/bXulJ504OnCzBkLDG6eZaKaO3Mx4OADDNjURNiv5WxUaHBy\nInUx5eIVFof/pqYfOUhFfy6ESsPioTaNAKhQwawmeipKlhX2SJHTLYaSJIxfqxRm\n0Keh4ZvHBeYU5/gyR9Zw8zEHQzVqoT5axemeEQKBgQD2ZVnEpa11pChaMLpU3qFl\nr9qhGFoYTEAZ0WMS7eHfQ73DFoqY87POk82anX6xZiwX9cgoF7KuBPfz1dtyX15U\nU2JQQs+TEPMrrpgh5aqxvRXaFlSsnQU9p8bmwhjjzi9E3KWN6Yao9/wnp/y/MSMr\njjAHk+hC3QvWdT/hwX7wsA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "microappserviceaccount@microapp-257519.iam.gserviceaccount.com",
+  "client_id": "109850176990840368748",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/microappserviceaccount%40microapp-257519.iam.gserviceaccount.com"
+}
