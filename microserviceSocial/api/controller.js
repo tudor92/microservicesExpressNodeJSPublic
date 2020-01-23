@@ -2,10 +2,6 @@
 
 const database = require('../services/database.js');
 
-const Credentials = require('../config/credentials.js')
-const topicName = Credentials.topicName;
-
-
 var controllers = {
     getFriendsList: async function (req, res) {
 

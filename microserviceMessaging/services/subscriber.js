@@ -3,9 +3,6 @@ const util = require('util');
 const pubsub = require('@google-cloud/pubsub');
 const {PubSub} = require('@google-cloud/pubsub');
 
-    //need to return promise
-    // timeout is hit -> resolve all messages
-
 async function readMessageAsync(timeout, subscriptionName, key) {
     return new Promise(function(resolve, reject) {
     

@@ -6,15 +6,6 @@ var admin = require('firebase');
 admin.initializeApp(credentials.firebaseConfig);
 var db = admin.firestore();
 
-//console.log(db);
-// function to write data in the cloud firestore
-// parameters:
-//           - data         - input data
-//           - address   - address of where the data is to be written
-//                          - collection/document/subcollection/document/..
-
-
-
 async function readUser(key, phone) {
 
   try {
